@@ -1,1 +1,1 @@
-# muzika
+mv resources/*.jpg images
